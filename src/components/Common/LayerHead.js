@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function LayerHead(props) {
   const imageX = {
-    backgroundImage:"url('btn_close.svg')",
+    backgroundImage:"url('./btn_close.svg')",
     backgroundSize:'cover'
   }
 

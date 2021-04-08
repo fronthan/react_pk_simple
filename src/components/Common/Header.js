@@ -8,9 +8,9 @@ function Header() {
           <Link to="/" className="pk_logo">
             <img src="./logo_pk.svg" alt="" />
           </Link>
-          <Link to="/search" className="icon_search">
+          <span className="icon_search">
             <img src="./icon_search.svg" alt=""/>
-          </Link>
+          </span>
         </div>
     </header>
   );

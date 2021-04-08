@@ -19,11 +19,11 @@ function Home() {
       </div> */}
       <div className="post_wrap">
         <Post src="./sns001.jpg" />      
-        <Post src="./sns005.jpg" />
-        <Post src="./sns004.jpg" />
-        <Post src="./sns006.jpg" />
-        <Post src="./sns007.jpg" />
-        <Post src="./sns008.jpg" />
+        <Post src="./sns005.JPG" />
+        <Post src="./sns004.JPG" />
+        <Post src="./sns006.JPG" />
+        <Post src="./sns007.JPG" />
+        <Post src="./sns008.JPG" />
       </div>
     </main>
   );

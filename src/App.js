@@ -14,7 +14,7 @@ function App() {
   return (
     <div style={pk}>
       <h1 className="blind_block">리액트 연습-플콕</h1>
-      <Router>
+      <Router basename="/react_pk_simple">
         <Header />
         <Switch>
           <Route path="/" exact component={Home} />

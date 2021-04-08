@@ -1,6 +1,6 @@
 import React from 'react';
 
-const bg_add_post = {backgroundImage:"URL('btn_plus.svg')", backgroundPosition:'center', backgroundRepeat: 'no-repeat'}
+const bg_add_post = {backgroundImage:"URL('./btn_plus.svg')", backgroundPosition:'center', backgroundRepeat: 'no-repeat'}
 
 function Post(props) {
     
